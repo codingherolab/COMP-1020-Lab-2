@@ -1,0 +1,2 @@
+# COMP-1020-Lab-2
+COMP 1020 Lab 2
